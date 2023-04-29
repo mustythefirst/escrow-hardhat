@@ -1,4 +1,5 @@
 app/dist
+.env
 app/artifacts
 cache
 node_modules
